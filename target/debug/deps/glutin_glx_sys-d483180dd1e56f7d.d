@@ -1,0 +1,11 @@
+/media/ayaz/New Volume/windows/ayaz backup/windows/data1/TECH COURSES/rust/hwrust-code/code/target/debug/deps/glutin_glx_sys-d483180dd1e56f7d.rmeta: /home/ayaz/.cargo/registry/src/github.com-1ecc6299db9ec823/glutin_glx_sys-0.1.7/src/lib.rs /media/ayaz/New\ Volume/windows/ayaz\ backup/windows/data1/TECH\ COURSES/rust/hwrust-code/code/target/debug/build/glutin_glx_sys-397557a99f1d3fea/out/glx_bindings.rs /media/ayaz/New\ Volume/windows/ayaz\ backup/windows/data1/TECH\ COURSES/rust/hwrust-code/code/target/debug/build/glutin_glx_sys-397557a99f1d3fea/out/glx_extra_bindings.rs
+
+/media/ayaz/New Volume/windows/ayaz backup/windows/data1/TECH COURSES/rust/hwrust-code/code/target/debug/deps/libglutin_glx_sys-d483180dd1e56f7d.rlib: /home/ayaz/.cargo/registry/src/github.com-1ecc6299db9ec823/glutin_glx_sys-0.1.7/src/lib.rs /media/ayaz/New\ Volume/windows/ayaz\ backup/windows/data1/TECH\ COURSES/rust/hwrust-code/code/target/debug/build/glutin_glx_sys-397557a99f1d3fea/out/glx_bindings.rs /media/ayaz/New\ Volume/windows/ayaz\ backup/windows/data1/TECH\ COURSES/rust/hwrust-code/code/target/debug/build/glutin_glx_sys-397557a99f1d3fea/out/glx_extra_bindings.rs
+
+/media/ayaz/New Volume/windows/ayaz backup/windows/data1/TECH COURSES/rust/hwrust-code/code/target/debug/deps/glutin_glx_sys-d483180dd1e56f7d.d: /home/ayaz/.cargo/registry/src/github.com-1ecc6299db9ec823/glutin_glx_sys-0.1.7/src/lib.rs /media/ayaz/New\ Volume/windows/ayaz\ backup/windows/data1/TECH\ COURSES/rust/hwrust-code/code/target/debug/build/glutin_glx_sys-397557a99f1d3fea/out/glx_bindings.rs /media/ayaz/New\ Volume/windows/ayaz\ backup/windows/data1/TECH\ COURSES/rust/hwrust-code/code/target/debug/build/glutin_glx_sys-397557a99f1d3fea/out/glx_extra_bindings.rs
+
+/home/ayaz/.cargo/registry/src/github.com-1ecc6299db9ec823/glutin_glx_sys-0.1.7/src/lib.rs:
+/media/ayaz/New\ Volume/windows/ayaz\ backup/windows/data1/TECH\ COURSES/rust/hwrust-code/code/target/debug/build/glutin_glx_sys-397557a99f1d3fea/out/glx_bindings.rs:
+/media/ayaz/New\ Volume/windows/ayaz\ backup/windows/data1/TECH\ COURSES/rust/hwrust-code/code/target/debug/build/glutin_glx_sys-397557a99f1d3fea/out/glx_extra_bindings.rs:
+
+# env-dep:OUT_DIR=/media/ayaz/New Volume/windows/ayaz backup/windows/data1/TECH COURSES/rust/hwrust-code/code/target/debug/build/glutin_glx_sys-397557a99f1d3fea/out

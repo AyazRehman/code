@@ -1,0 +1,11 @@
+/media/ayaz/New Volume/windows/ayaz backup/windows/data1/TECH COURSES/rust/hwrust-code/code/target/debug/deps/wayland_sys-348eb6d5df2d5889.rmeta: /home/ayaz/.cargo/registry/src/github.com-1ecc6299db9ec823/wayland-sys-0.28.3/src/lib.rs /home/ayaz/.cargo/registry/src/github.com-1ecc6299db9ec823/wayland-sys-0.28.3/src/common.rs /home/ayaz/.cargo/registry/src/github.com-1ecc6299db9ec823/wayland-sys-0.28.3/src/client.rs /home/ayaz/.cargo/registry/src/github.com-1ecc6299db9ec823/wayland-sys-0.28.3/src/server.rs /home/ayaz/.cargo/registry/src/github.com-1ecc6299db9ec823/wayland-sys-0.28.3/src/egl.rs
+
+/media/ayaz/New Volume/windows/ayaz backup/windows/data1/TECH COURSES/rust/hwrust-code/code/target/debug/deps/libwayland_sys-348eb6d5df2d5889.rlib: /home/ayaz/.cargo/registry/src/github.com-1ecc6299db9ec823/wayland-sys-0.28.3/src/lib.rs /home/ayaz/.cargo/registry/src/github.com-1ecc6299db9ec823/wayland-sys-0.28.3/src/common.rs /home/ayaz/.cargo/registry/src/github.com-1ecc6299db9ec823/wayland-sys-0.28.3/src/client.rs /home/ayaz/.cargo/registry/src/github.com-1ecc6299db9ec823/wayland-sys-0.28.3/src/server.rs /home/ayaz/.cargo/registry/src/github.com-1ecc6299db9ec823/wayland-sys-0.28.3/src/egl.rs
+
+/media/ayaz/New Volume/windows/ayaz backup/windows/data1/TECH COURSES/rust/hwrust-code/code/target/debug/deps/wayland_sys-348eb6d5df2d5889.d: /home/ayaz/.cargo/registry/src/github.com-1ecc6299db9ec823/wayland-sys-0.28.3/src/lib.rs /home/ayaz/.cargo/registry/src/github.com-1ecc6299db9ec823/wayland-sys-0.28.3/src/common.rs /home/ayaz/.cargo/registry/src/github.com-1ecc6299db9ec823/wayland-sys-0.28.3/src/client.rs /home/ayaz/.cargo/registry/src/github.com-1ecc6299db9ec823/wayland-sys-0.28.3/src/server.rs /home/ayaz/.cargo/registry/src/github.com-1ecc6299db9ec823/wayland-sys-0.28.3/src/egl.rs
+
+/home/ayaz/.cargo/registry/src/github.com-1ecc6299db9ec823/wayland-sys-0.28.3/src/lib.rs:
+/home/ayaz/.cargo/registry/src/github.com-1ecc6299db9ec823/wayland-sys-0.28.3/src/common.rs:
+/home/ayaz/.cargo/registry/src/github.com-1ecc6299db9ec823/wayland-sys-0.28.3/src/client.rs:
+/home/ayaz/.cargo/registry/src/github.com-1ecc6299db9ec823/wayland-sys-0.28.3/src/server.rs:
+/home/ayaz/.cargo/registry/src/github.com-1ecc6299db9ec823/wayland-sys-0.28.3/src/egl.rs:

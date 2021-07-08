@@ -1,0 +1,1 @@
+/media/ayaz/New\ Volume/windows/ayaz\ backup/windows/data1/TECH\ COURSES/rust/hwrust-code/code/target/debug/hello_bterm: /media/ayaz/New\ Volume/windows/ayaz\ backup/windows/data1/TECH\ COURSES/rust/hwrust-code/code/FirstGameFlappyAscii/hello_bterm/src/main.rs
